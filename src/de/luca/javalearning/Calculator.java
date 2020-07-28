@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author Luca R.
  */
 
-public class calculator {
+public class Calculator {
 
     public static void main(String[] args) {
         //Deklarieren der Variablen
