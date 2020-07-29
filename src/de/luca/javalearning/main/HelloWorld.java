@@ -8,7 +8,7 @@ import de.luca.javalearning.vererbungen.Lebewesen;
 public class HelloWorld {
 
     public static void main(String[] args) {
-        Animal animal = new Animal();
+        Animal animal = new Dog();
         Dog dog = new Dog();
         //Dog dog = new Dog();
 
@@ -26,7 +26,7 @@ public class HelloWorld {
         }
 
         ls[5] = new Dog();
-        ls[4] = new Animal();
+        ls[4] = new Dog();
 
         for(int i=0; i < 10; i++) {
             ls[i].atme();

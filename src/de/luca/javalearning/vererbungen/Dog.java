@@ -11,6 +11,11 @@ public class Dog extends Animal {
         return "WUFF";
     }
 
+    @Override
+    public void laufe() {
+        System.out.println("hüpf");
+    }
+
     public void atme() {
         System.out.println("Hechel");
     }
