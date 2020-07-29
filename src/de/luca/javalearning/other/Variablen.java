@@ -1,4 +1,4 @@
-package de.luca.javalearning;
+package de.luca.javalearning.other;
 
 public class Variablen {
 
