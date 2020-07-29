@@ -10,4 +10,8 @@ public class Dog extends Animal {
     public String macheDichBemerkbar() {
         return "WUFF";
     }
+
+    public void atme() {
+        System.out.println("Hechel");
+    }
 }
